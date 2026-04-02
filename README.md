@@ -11,7 +11,7 @@
 
 <!-- Talking about you -->
 ## A bit about me 🙋‍♂️
-- 👯 I’m a 3rd year student pursuing bachelor's degree in Mechanical Engineering
+- 👯 I’m a final year student pursuing bachelor's degree in Mechanical Engineering
 - 👀 I’m interested in Data Structures and Algorithm and Web Development
 - 💞️ I’m looking to collaborate on Projects related to FrontEnd
 
